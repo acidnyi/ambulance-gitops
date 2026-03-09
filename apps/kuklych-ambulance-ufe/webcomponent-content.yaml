@@ -4,7 +4,10 @@ metadata:
   name: kuklych-ambulance-ufe-content
 spec:
   microFrontend: kuklych-ambulance-ufe
-  element: kuklych-ambulance-wl-list
+  element: kuklych-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: ./kuklych-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
