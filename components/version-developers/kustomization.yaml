@@ -6,4 +6,4 @@ images:
   newTag: main.20260321.1852 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: ergese/ambulance-wl-webapi
   newName: ergese/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20260403.1530 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
