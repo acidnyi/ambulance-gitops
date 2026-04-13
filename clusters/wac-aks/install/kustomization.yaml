@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/kuklych-ambulance-ufe
+- ../../../apps/kuklych-ambulance-webapi
 
 
 components:
