@@ -7,6 +7,6 @@ spec:
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Serhii Kuklych" # Zadajte mená autorov
   azureLink: "https://kuklych-ambulance-ufe.azurewebsites.net/"
-  frontendRepoUrl: "https://github.com/acidnyi/ambulance-ufe"
+  frontendRepoUrl: "https://github.com/acidnyi/wac-kuklych-ambulance-ufe"
   backendRepoUrl: "https://github.com/acidnyi/ambulance-webapi"
   gitopsRepoUrl: "https://github.com/acidnyi/ambulance-gitops"
