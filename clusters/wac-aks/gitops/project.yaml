@@ -3,7 +3,7 @@ kind: Project
 metadata:
   name: kuklych-ambulance-wl # napr. <pfx>-ambulance-wl
 spec:
-  title: "Zoznam čakajúcich kuklych"
+  title: "kuklych-ambulance-ufe"
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Serhii Kuklych" # Zadajte mená autorov
   azureLink: "https://kuklych-ambulance-ufe.azurewebsites.net/"
