@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: kuklych-ambulance-wl # napr. <pfx>-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich kuklych"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Serhii Kuklych" # Zadajte mená autorov
+  azureLink: "https://kuklych-ambulance-ufe.azurewebsites.net/"
+  frontendRepoUrl: "https://github.com/acidnyi/ambulance-ufe"
+  backendRepoUrl: "https://github.com/acidnyi/ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/acidnyi/ambulance-gitops"
