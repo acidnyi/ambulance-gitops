@@ -6,7 +6,7 @@ resources:
 - openapi-ui.service.yaml
 - http-route.yaml
 
-lables:
+labeles:
   - pairs:
       wac-fiit.github.io/component: backend
 
